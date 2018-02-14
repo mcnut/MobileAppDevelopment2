@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="Grid_View_Pubs.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Grid_View_Pubs"
+    RequestedTheme="Light">
+
+</Application>
+
